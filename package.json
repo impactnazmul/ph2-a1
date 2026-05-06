@@ -1,0 +1,23 @@
+{
+  "name": "ph2-a1",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/impactnazmul/ph2-a1#readme",
+  "bugs": {
+    "url": "https://github.com/impactnazmul/ph2-a1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impactnazmul/ph2-a1.git"
+  },
+  "license": "ISC",
+  "author": "Md. Nazmul Huda",
+  "type": "module",
+  "main": "solutions.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
