@@ -15,7 +15,7 @@
   "type": "module",
   "main": "solutions.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile": "tsc"
   },
   "devDependencies": {
     "typescript": "^6.0.3"
